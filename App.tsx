@@ -20,7 +20,7 @@ const App: React.FC = () => {
 
   const [automation, setAutomation] = useState<AutomationSettings>({
     remoteTriggerId: `vf-${Math.random().toString(36).substring(2, 11)}`,
-    webhookUrl: 'https://sales-caribbean-alumni-funk.trycloudflare.com/webhook-test/3cb8d34f-cd85-4325-a8de-9953fcd95833'
+    webhookUrl: 'Webhook slot'
   });
 
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
