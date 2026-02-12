@@ -31,7 +31,7 @@ const App: React.FC = () => {
     const saved = localStorage.getItem(STORAGE_KEYS.AUTOMATION);
     return saved ? JSON.parse(saved) : {
       remoteTriggerId: `vf-${Math.random().toString(36).substring(2, 11)}`,
-      webhookUrl: 'https://sales-caribbean-alumni-funk.trycloudflare.com/webhook-test/3cb8d34f-cd85-4325-a8de-9953fcd95833'
+      webhookUrl: 'PUT IT IN PLEASEE'
     };
   });
 
