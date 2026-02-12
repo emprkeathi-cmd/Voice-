@@ -1,0 +1,19 @@
+{
+  "name": "VoiceFlow Logic System",
+  "short_name": "VoiceFlow",
+  "description": "Intelligent VAD Audio Signal Processor",
+  "id": "/voiceflow-app",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5988/5988544.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
