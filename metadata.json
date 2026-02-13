@@ -1,7 +1,0 @@
-{
-  "name": "VoiceFlow AI",
-  "description": "An intelligent voice recorder with auto-start/stop voice activity detection and AI-powered summaries.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
